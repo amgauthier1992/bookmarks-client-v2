@@ -219,5 +219,3 @@ class EditBookmark extends React.Component {
 
 
 export default withRouter(EditBookmark);
-
-the update is occuring prior to the submit
